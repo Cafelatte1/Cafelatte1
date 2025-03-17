@@ -6,10 +6,10 @@
 
 ## AI/ML Competitions
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
-- [AIFactory 천연가스 소비 예측 - 3rd Place Solution](https://github.com/Cafelatte1/AIFactory_Naturalgas-Consumption-Prediction-3rd)
+- [스마트팜코리아 데이터 활용사례 공모전 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
+- [AIFactory 천연가스 소비 예측 경진대회 - 3rd Place Solution](https://github.com/Cafelatte1/AIFactory_Naturalgas-Consumption-Prediction-3rd)
 
 ## R&D Repository
 * PDF Page Search
 * ElasticRAG
 * HuggingRAG
-
