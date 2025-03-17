@@ -1,36 +1,15 @@
-## Working on...
+## Profile
+- Machine Learning Engineer
+- Name: 김영준
+- E-mail: flash659@gmail.com
 
-<!--
-**Cafelatte1/Cafelatte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## AI/ML Competitions
+- [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
+- [AIFactory 천연가스 소비 예측 - 3rd Place Solution](https://github.com/Cafelatte1/AIFactory_Naturalgas-Consumption-Prediction-3rd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 경진대회
-1. 주가예측 (1위)
-2. 스마트팜
-3. 천연가스
-4. 서울대 MAIC
-
-### 대표 개발목록
+## R&D Repository
 * PDF Page Search
 * ElasticRAG
 * HuggingRAG
 
-### 지원사업공고?
-
-
-
-###
-ㄴㅇㄹ
-
-
--->
