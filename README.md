@@ -13,6 +13,6 @@
 - [Kaggle Multi Objective Recommender System - Top10% BronzeMedal Solution](https://github.com/Cafelatte1/Kaggle_Multi-Objective-Recommender-System-BronzeMedal)
   
 ## R&D
-* PDF Page Search
-* ElasticRAG
-* HuggingRAG
+### Frony Modules For RAG
+* Document Chunker
+* PDF Page Searcher
