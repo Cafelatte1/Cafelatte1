@@ -14,5 +14,5 @@
   
 ## R&D
 ### Frony Modules For RAG
-* Document Chunker
+* [Document Chunker](https://github.com/Cafelatte1/frony-document-chunker)
 * PDF Page Searcher
