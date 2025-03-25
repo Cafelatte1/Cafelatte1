@@ -12,7 +12,8 @@
 - [Kaggle NeurIPS2024 - Top5% SilverMedal Solution](https://github.com/Cafelatte1/Kaggle_NeurIPS2024-SilverMedal)
 - [Kaggle Multi Objective Recommender System - Top10% BronzeMedal Solution](https://github.com/Cafelatte1/Kaggle_Multi-Objective-Recommender-System-BronzeMedal)
   
-## R&D
-### Frony Modules For RAG
-* [Document Chunker](https://github.com/Cafelatte1/frony-document-chunker)
-* PDF Page Searcher
+## R&D (Modules For RAG)
+### Frony Document Manager (in-progress...)
+* Document Parser (txt, pdf, pptx etc)
+* Document Chunker (Rule based chunker & LLM based chunker)
+* Document Embedder
