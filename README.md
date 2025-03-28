@@ -1,7 +1,6 @@
 ## Profile
-- Machine Learning Engineer
-- Name: 김영준
-- E-mail: flash659@gmail.com
+- 김영준 (Machine Learning Engineer)
+- flash659@gmail.com
 
 ## R&D (Modules For RAG)
 * [Frony Document Processor - Easy & Convenient Document Processing for RAG](https://github.com/Cafelatte1/frony-document-processor)
