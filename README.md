@@ -2,7 +2,7 @@
 - 김영준 (Machine Learning Engineer)
 - flash659@gmail.com
 
-## R&D (Modules For RAG)
+## R&D
 * [Frony Document Processor - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
 ## AI/ML Competition
