@@ -3,6 +3,7 @@
 - Job: Machine Learning Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
+- Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 
 ## What I do
 ### R&D
