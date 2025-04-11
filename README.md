@@ -6,8 +6,9 @@
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 
 ## What I do
-### FronyAI
-- [sLLM - NL2SQL for Efficient AI Agent Workflow (frony-natural2sql-ko-v0.1.0)](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
+### FronyAI sLLM Collection for AI Agent
+- [NL2SQL (frony-natural2sql-ko-v0.1.0)](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
+### R&D
 - [Frony Document Processor - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
 ### AI/ML Competition
