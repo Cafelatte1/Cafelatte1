@@ -8,7 +8,7 @@
 ## What I do
 ### FronyAI Embedding Model for Korean
 - [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5)
-- [FronyAI/frony-embed-medium-ko-v1](https://huggingface.co/FronyAI/frony-embed-medium-ko-v1)
+- [FronyAI/frony-embed-medium-ko-v2](https://huggingface.co/FronyAI/frony-embed-medium-ko-v2)
 
 ### FronyAI sLLM for AI Agent
 - [NL2SQL (frony-natural2sql-ko-v0.1.0)](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
