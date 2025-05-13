@@ -7,11 +7,10 @@
 
 ## What I do
 ### FronyAI Embedding Model for Korean
-- [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5)
-- [FronyAI/frony-embed-medium-ko-v2](https://huggingface.co/FronyAI/frony-embed-medium-ko-v2)
+- **[Korean Dense Retriever(Ko-Learboard 2nd)](https://github.com/OnAnd0n/ko-embedding-leaderboard)** - [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5)
 
 ### FronyAI sLLM for AI Agent
-- [NL2SQL (frony-natural2sql-ko-v0.1.0)](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
+- **Natural to SQL** - [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
 
 ### R&D
 - [Frony Document Processor - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
