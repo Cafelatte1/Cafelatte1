@@ -13,7 +13,7 @@
 - **Natural to SQL** - [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
 
 ### R&D
-- [Frony Document Processor - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
+- [**Frony Document Processor** - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
 ### AI/ML Competition
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
