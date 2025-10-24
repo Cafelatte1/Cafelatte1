@@ -1,9 +1,10 @@
 ## Who am I
 - Name: 김영준 (YoungJun Kim)
-- Job: Machine Learning Engineer
+- Job: Unity Game Programmer / AI Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
+- HuggingFace: TBD
 
 ## What I do
 ### FronyAI Embedding Model for Korean
@@ -15,7 +16,7 @@
 ### R&D
 - [**Frony Document Processor** - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
-### AI/ML Competition
+### My Works
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
 - [스마트팜코리아 데이터 활용사례 공모전 - 1st Place Solution](https://github.com/Cafelatte1/SmartFarmKorea_Data-Analysis-Competition-1st)
 - [AIFactory 천연가스 소비 예측 경진대회 - 3rd Place Solution](https://github.com/Cafelatte1/AIFactory_Naturalgas-Consumption-Prediction-3rd)
