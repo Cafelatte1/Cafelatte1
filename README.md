@@ -4,19 +4,14 @@
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
-- HuggingFace: TBD
+- HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
 
-## What I do
-### FronyAI Embedding Model for Korean
+## Works
 - **Dense Retriever for Korean** - [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) [**(3nd Ranked Model for Retrieval Task)**](https://github.com/OnAnd0n/ko-embedding-leaderboard)
+- **Natural Language to SQL** - [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
+- **Frony Document Processor** - [Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
-### FronyAI sLLM for AI Agent
-- **Natural to SQL** - [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
-
-### R&D
-- [**Frony Document Processor** - Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
-
-### My Works
+## Achievements
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
 - [스마트팜코리아 데이터 활용사례 공모전 - 1st Place Solution](https://github.com/Cafelatte1/SmartFarmKorea_Data-Analysis-Competition-1st)
 - [AIFactory 천연가스 소비 예측 경진대회 - 3rd Place Solution](https://github.com/Cafelatte1/AIFactory_Naturalgas-Consumption-Prediction-3rd)
