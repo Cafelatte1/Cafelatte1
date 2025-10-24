@@ -1,6 +1,5 @@
 ## Who am I
-- Name: 김영준 (YoungJun Kim)
-- Job: Unity Game Programmer / AI Engineer
+- Unity Game Programmer / AI Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
