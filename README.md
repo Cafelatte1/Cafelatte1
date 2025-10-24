@@ -6,9 +6,9 @@
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
 
 ## Works
-- **Dense Retriever for Korean** - [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) [**(3nd Ranked Model for Retrieval Task)**](https://github.com/OnAnd0n/ko-embedding-leaderboard)
-- **Natural Language to SQL** - [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
-- **Frony Document Processor** - [Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
+- **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) [**(3nd Ranked Model for Retrieval Task)**](https://github.com/OnAnd0n/ko-embedding-leaderboard)
+- **Natural Language to SQL**: [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
+- **Frony Document Processor**: [Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 
 ## Achievements
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
