@@ -1,12 +1,9 @@
 ## Who am I
-- Game Programmer / AI Engineer
+- AI Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
-## Game Programmer
-### Works
-- **Untiy with On-Device LLM Inference Pipeline**: [Unity with Intel OpenVINO](https://github.com/Cafelatte1/unity-ai-portfolio-project-magic)
 ## AI Engineer
 ### Works
 - **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) [**(3nd Ranked Model for Retrieval Task)**](https://github.com/OnAnd0n/ko-embedding-leaderboard)
