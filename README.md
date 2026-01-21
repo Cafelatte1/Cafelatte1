@@ -4,7 +4,6 @@
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
-- And Penguin Lover
 ## AI Engineer
 ### Works
 - **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) [**(3nd Ranked Model for Retrieval Task)**](https://github.com/OnAnd0n/ko-embedding-leaderboard)
