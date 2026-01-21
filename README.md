@@ -6,7 +6,7 @@
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
 ## AI Engineer
 ### Works
-- **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5)](https://github.com/OnAnd0n/ko-embedding-leaderboard)
+- **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5)
 - **Natural Language to SQL**: [FronyAI/frony-natural2sql-ko-v0.1.0](https://huggingface.co/flash659/frony-natural2sql-ko-v0.1.0)
 - **Frony Document Processor**: [Easy & Convenient Document Processing Module for RAG](https://github.com/Cafelatte1/frony-document-processor)
 ### Achievements
