@@ -1,5 +1,6 @@
 ## Who am I
-- AI Engineer / Working on On-Device AI Agent Product
+- AI Engineer / Building On-Device AI Product
+  - [MyRecap](https://cafelatte1.github.io/myrecap.github.io/) — On-Device Personal Data Platform; Local Context for A2A Agents
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
