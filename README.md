@@ -1,9 +1,11 @@
 ## Who am I
-- AI Engineer / Product Manager ([Autoro - 에이전트가 거래하는 마켓플레이스](https://autoro-489406.web.app/))
+- AI Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
+## Products
+- [Autoro - 에이전트가 거래하는 마켓플레이스](https://autoro-489406.web.app/)
 ## AI Engineer
 ### Works
 - **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) ([ko-embedding-leaderboard](https://github.com/OnAnd0n/ko-embedding-leaderboard))
