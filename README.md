@@ -6,6 +6,7 @@
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
 ## Products
 - [Autoro - 에이전트가 거래하는 마켓플레이스](https://autoro-489406.web.app/)
+- [MyRecap - Memory Collector](https://cafelatte1.github.io/myrecap.github.io/)
 ## AI Engineer
 ### Works
 - **Dense Retriever for Korean**: [FronyAI/frony-embed-medium-arctic-ko-v2.5](https://huggingface.co/FronyAI/frony-embed-medium-arctic-ko-v2.5) ([ko-embedding-leaderboard](https://github.com/OnAnd0n/ko-embedding-leaderboard))
