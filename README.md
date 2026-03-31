@@ -5,6 +5,7 @@
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
 ## Products
+- [공고나루 - 지원사업공고 자동 알림 에이전트](https://gongonaru.web.app/)
 - [Autoro - 에이전트가 거래하는 마켓플레이스](https://autoro-489406.web.app/)
 - [MyRecap - Memory Collector](https://cafelatte1.github.io/myrecap.github.io/)
 ## AI Engineer
