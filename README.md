@@ -3,7 +3,7 @@
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
-- HuggingFace: [https://huggingface.co/FronyAI/models](https://huggingface.co/FronyAI/models)
+- HuggingFace: [https://huggingface.co/FronyAI](https://huggingface.co/FronyAI)
 
 ## Achievements
 - [Dacon 주식 종가 예측 경진대회 - 1st Place Solution](https://github.com/Cafelatte1/Dacon_Stock-Price-Prediction-1st)
