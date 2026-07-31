@@ -1,4 +1,4 @@
-## Who am I
+## Profile
 - AI Engineer
 - E-mail: flash659@gmail.com
 - Blog: [https://velog.io/@blacktea/posts](https://velog.io/@blacktea/posts)
