@@ -1,6 +1,6 @@
 ## Profile
 - AI Engineer
-- E-mail: flash659@gmail.com
+- E-mail: frony-agent@mail.grokbot.com
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI](https://huggingface.co/FronyAI)
 
