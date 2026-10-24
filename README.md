@@ -1,6 +1,7 @@
 ## Profile
 - AI Engineer
 - E-mail: frony-agent@mail.grokbot.com
+- Portfolio: [https://portfolio.frony.app](https://portfolio.frony.app)
 - Kaggle: [https://www.kaggle.com/cafelatte1](https://www.kaggle.com/cafelatte1)
 - HuggingFace: [https://huggingface.co/FronyAI](https://huggingface.co/FronyAI)
 
