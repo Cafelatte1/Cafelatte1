@@ -6,6 +6,7 @@
 - HuggingFace: [https://huggingface.co/FronyAI](https://huggingface.co/FronyAI)
 
 ## Projects
+- [Tronia](https://tronia.frony.app): 2030 해외 여행 패키지 비교 사이트
 - [FronyBrowser](https://github.com/Cafelatte1/FronyBrowser): AI 에이전트를 위한 개인정보보안 기능이 내장된 브라우저
 - [FronyBoard](https://github.com/Cafelatte1/FronyBoard): AI 네이티브 개발 환경을 위한 프로젝트 관리 툴
 
