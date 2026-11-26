@@ -4,8 +4,8 @@
 - Portfolio: [https://portfolio.frony.app](https://portfolio.frony.app)
 
 ## Projects
-- [FronyBrowser](https://github.com/Cafelatte1/FronyBrowser): AI 에이전트를 위한 개인정보보안 기능이 내장된 브라우저
 - [FronyBoard](https://github.com/Cafelatte1/FronyBoard): AI 네이티브 개발 환경을 위한 프로젝트 관리 툴
+- [FronyBrowser](https://github.com/Cafelatte1/FronyBrowser): AI 에이전트를 위한 개인정보보안 기능이 내장된 브라우저
 
 ## Awards
 - [Kaggle NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/code/cafelatte1/81th-solution-1dcnn-with-all-data-feat-densenet)
